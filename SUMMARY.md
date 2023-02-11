@@ -4,11 +4,11 @@
 
 * [Overview](README.md)
 * [What is Sohei](intro/what-is-sohei.md)
-* [What is Hei](intro/what-is-hei.md)
 
 ## Sohei Ecosystem <a href="#ecosystem" id="ecosystem"></a>
 
 * [The Hei Token](ecosystem/hei-token.md)
+  * [What is Hei](intro/what-is-hei.md)
 * [Tokenomics](ecosystem/tokenomics.md)
   * [Contract Addresses](ecosystem/contract/contract-addresses.md)
 * [Products](ecosystem/products/README.md)
