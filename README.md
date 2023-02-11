@@ -1,6 +1,6 @@
-# Overview
+# What is Sohei.fi
 
-## The Sohei.fi Protocol?
+## The Sohei.fi Protocol
 
 Sohei is a Decentralized protocol for borrowing and lending built on Canto.&#x20;
 
