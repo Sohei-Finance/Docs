@@ -8,7 +8,7 @@
 
 * [The Hei Token](ecosystem/hei-token.md)
   * [What is Hei](ecosystem/what-is-hei.md)
-* [Tokenomics](ecosystem/tokenomics.md)
+* [Token Distribution](ecosystem/tokenomics.md)
   * [Contract Addresses](ecosystem/contract/contract-addresses.md)
 * [Products](ecosystem/products/README.md)
   * [Supply](ecosystem/products/supply.md)
