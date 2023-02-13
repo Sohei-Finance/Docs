@@ -6,7 +6,7 @@
 
 ## Sohei Ecosystem <a href="#ecosystem" id="ecosystem"></a>
 
-* [Why Canto?](ecosystem/why-canto.md)
+* [Why Arbitrium?](ecosystem/why-arbitrium.md)
 * [Why Sohei?](ecosystem/why-sohei.md)
 * [The Hei Token](ecosystem/hei-token.md)
   * [What is Hei](ecosystem/what-is-hei.md)

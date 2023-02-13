@@ -2,7 +2,7 @@
 
 ## The Sohei.fi Protocol
 
-Sohei is a decentralized protocol for borrowing and lending built on Canto. Unfortunately, billions of dollars are locked in crypto assets that cannot be collateralized, including tokens, LPs, vaults, and derivatives. At Sohei.fi, our mission is to unlock the value of these assets by supporting them as collateral.
+Sohei is a decentralized protocol for borrowing and lending built on Arbitrium. Unfortunately, billions of dollars are locked in crypto assets that cannot be collateralized, including tokens, LPs, vaults, and derivatives. At Sohei.fi, our mission is to unlock the value of these assets by supporting them as collateral.
 
 The Sohei Protocol offers two main products, the Supply, and Borrow Market. This allows you to deposit your crypto tokens as collateral for borrowing against another asset. The amount you may borrow in relation to your collateral depends on the type of asset used and can be found in your dashboard.
 
