@@ -2,7 +2,7 @@
 
 ## INTRODUCTION
 
-* [What is Sohei.fi](README.md)
+* [What is Sohei](README.md)
 
 ## Sohei Ecosystem <a href="#ecosystem" id="ecosystem"></a>
 
