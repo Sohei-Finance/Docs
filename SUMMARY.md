@@ -3,15 +3,11 @@
 ## INTRODUCTION
 
 * [What is Sohei](README.md)
+* [Why Arbitrium?](introduction/why-arbitrium.md)
+* [Why Sohei?](introduction/why-sohei.md)
 
 ## Sohei Ecosystem <a href="#ecosystem" id="ecosystem"></a>
 
-* [Why Arbitrium?](ecosystem/why-canto.md)
-* [Why Sohei?](ecosystem/why-sohei.md)
-* [The Hei Token](ecosystem/hei-token.md)
-  * [What is Hei](ecosystem/what-is-hei.md)
-* [Token Distribution](ecosystem/tokenomics.md)
-  * [Contract Addresses](ecosystem/contract/contract-addresses.md)
 * [Products](ecosystem/products/README.md)
   * [Supply](ecosystem/products/supply.md)
   * [Borrow](ecosystem/products/borrow.md)
@@ -19,6 +15,10 @@
     * [Borrow Limits and Utilization](ecosystem/products/liquidation/borrow-limits-and-utilization.md)
     * [Liquidation Process](ecosystem/products/liquidation/liquidation-process.md)
     * [Collateral Ratio and Liquidation Threshold](ecosystem/products/liquidation/collateral-ratio-and-liquidation-threshold.md)
+* [The Hei Token](ecosystem/hei-token.md)
+  * [What is Hei](ecosystem/what-is-hei.md)
+* [Token Distribution](ecosystem/tokenomics.md)
+  * [Contract Addresses](ecosystem/contract/contract-addresses.md)
 * [Incentive mechanism](ecosystem/incentive-mechanism/README.md)
   * [Earning Multiplier Points](ecosystem/incentive-mechanism/earning-multiplier-points.md)
   * [Burning Multiplier Points](ecosystem/incentive-mechanism/burning-multiplier-points.md)
