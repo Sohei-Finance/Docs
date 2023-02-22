@@ -2,9 +2,9 @@
 
 ## INTRODUCTION
 
-* [What is Sohei](README.md)
-* [Why Arbitrium?](introduction/why-arbitrium.md)
-* [Why Sohei?](introduction/why-sohei.md)
+* [🥷 Overview](README.md)
+* [Why Arbitrium?](ecosystem/why-canto.md)
+* [Why Sohei?](ecosystem/why-sohei.md)
 
 ## Sohei Ecosystem <a href="#ecosystem" id="ecosystem"></a>
 
