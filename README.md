@@ -4,6 +4,8 @@ description: What is Sohei?
 
 # 🥷 Overview
 
+<figure><img src=".gitbook/assets/Sohei Banner.png" alt=""><figcaption></figcaption></figure>
+
 ## The Sohei Protocol
 
 The Sohei protocol is a groundbreaking decentralized protocol for borrowing and lending built on the Arbitrum network. Sadly, a lot of cryptocurrency assets, like tokens, LPs, vaults, and derivatives, can't be used as collateral. This limits the assets that can be used as collateral.
