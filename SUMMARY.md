@@ -18,7 +18,6 @@
 * [The Hei Token](ecosystem/hei-token.md)
   * [What is Hei](ecosystem/what-is-hei.md)
 * [Token Distribution](ecosystem/tokenomics.md)
-  * [Contract Addresses](ecosystem/contract/contract-addresses.md)
 * [Incentive mechanism](ecosystem/incentive-mechanism/README.md)
   * [Earning Multiplier Points](ecosystem/incentive-mechanism/earning-multiplier-points.md)
   * [Burning Multiplier Points](ecosystem/incentive-mechanism/burning-multiplier-points.md)
@@ -27,8 +26,8 @@
 
 ## PROTOCOL INFO
 
-* [Contract Addresses](protocol/ca.md)
 * [Audit](protocol/audit.md)
+* [Contract Addresses](protocol-info/contract-addresses.md)
 
 ## Community/Governance
 

@@ -1,10 +1,10 @@
 ---
 description: What is Sohei?
+cover: .gitbook/assets/Sohei Banner.png
+coverY: 0
 ---
 
 # 🥷 Overview
-
-<figure><img src=".gitbook/assets/Sohei Banner.png" alt=""><figcaption></figcaption></figure>
 
 ## The Sohei Protocol
 
