@@ -37,8 +37,7 @@
 
 ## Links
 
-* [Website](https://sohei.fi)
-* [Discord](https://discord.gg/)
+* [Website](https://www.sohei.io/)
+* [Twitter](https://twitter.com/soheidotio)
+* [Telegram](https://t.me/Sohei\_io)
 * [Github](https://github.com/)
-* [Telegram](https://t.me/)
-* [Twitter](https://twitter.com/soheidotfi)
