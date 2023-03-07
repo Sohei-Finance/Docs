@@ -39,4 +39,4 @@
 * [Website](https://www.sohei.io/)
 * [Twitter](https://twitter.com/soheidotio)
 * [Telegram](https://t.me/Sohei\_io)
-* [Github](https://github.com/)
+* [Github](https://github.com/Sohei-Finance)
