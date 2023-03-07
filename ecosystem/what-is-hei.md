@@ -8,4 +8,4 @@ HEI is the multi-utility token of the Sohei Protocol. The utility is twofold: HE
 
 The Sohei protocol is owned and governed by $HEI token holders. Protocol rewards and incentives will be paid in $HEI. As the protocol develops, $HEI will impart additional benefits to holders, such as improved LTVs, lower borrowing costs, and higher deposit rates.
 
-$HEI is inherently a utility token that allows users to increase their leverage ratio on the protocol, participate in governance, and join our community. In addition to having functionality, $HEI can be staked to generate an APY and secure the depositors against loss. Fees from liquidations will accrue to staked token holders, with higher APYs given to tokens locked for a longer term.
+$HEI is a utility token that provides a leverage ratio on the protocol, governance rights, and community participation. It can also be staked to earn an APY and protect depositors against loss. In addition, staked token holders can receive fees from liquidations and earn higher APYs for longer lock-up periods.
