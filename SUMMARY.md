@@ -3,7 +3,7 @@
 ## INTRODUCTION
 
 * [🥷 Overview](README.md)
-* [Why Arbitrium?](ecosystem/why-canto.md)
+* [Why Arbitrum?](introduction/why-arbitrum.md)
 * [Why Sohei?](ecosystem/why-sohei.md)
 
 ## Sohei Ecosystem <a href="#ecosystem" id="ecosystem"></a>
