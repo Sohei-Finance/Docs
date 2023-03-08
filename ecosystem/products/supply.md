@@ -1,18 +1,18 @@
 # Supply
 
-To supply liquidity to an asset on the Sohei protocol and begin earning rewards, you can follow the steps below:
+Follow these steps to add liquidity to an asset on the Sohei Protocol and start earning rewards:
 
 ### Step 1:
 
-Connect your wallet to Sohei.io, with Metamask being the currently supported wallet.\
+Connect your wallet to Sohei.io. Currently, Metamask is the only wallet that can be used.\
 \
-When connecting your wallet to Sohei.io, you will need to sign a message in your wallet. This process is free and does not require any transaction fees.
+You must sign a message in your wallet before Sohei.io will recognize your wallet. There are no costs associated with this procedure, and there are no transaction fees.
 
 ### **Step 2:**
 
-Choose the specific asset you wish to supply liquidity for on the Sohei.io platform.
+On the market page, you can choose which asset you want to provide liquidity for.
 
-Please note that the figures provided for each asset on the platform indicate the following information:
+Please keep in mind that the figures provided for each asset on the platform show the following:
 
 1. Total Supply - This represents the current liquidity provided for the asset.
 2. Total Borrowed - This shows the amount of assets currently borrowed by users.
@@ -27,7 +27,7 @@ If the asset you want to supply liquidity for is not enabled in your wallet, you
 
 To provide liquidity for an asset on Sohei.io, simply enter the amount you wish to deposit in the pop-up window and click on the "Deposit" button.
 
-Please note that the "Collateral" option is always enabled, which means that when you deposit an asset, it can be used as collateral for borrowing against another asset.
+Keep in mind that "Collateral" is always on, so any asset you add to the platform will be eligible to be used as collateral for a loan secured by another asset.
 
 After you deposit the asset, your borrowing limit will change to reflect the new amount you can borrow.
 
