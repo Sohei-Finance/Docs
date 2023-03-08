@@ -1,6 +1,6 @@
 # Why Arbitrum?
 
-Sohei is built on Arbitrum because it is a blockchain platform that provides fast, secure, and low-cost transactions. It enables the creation and execution of smart contracts and decentralized applications (dApps) with the ability to handle large amounts of data and transactions.
+Sohei is built on Arbitrum because it is a blockchain platform that provides fast, secure, and low-cost transactions. It lets smart contracts and decentralized applications (dApps) that can handle large amounts of data and transactions be made and run.
 
 Arbitrum also has high scalability and privacy, which makes it a great platform for building decentralized finance (DeFi) apps like Sohei.
 
