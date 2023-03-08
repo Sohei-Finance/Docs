@@ -1,5 +1,5 @@
 # Burning Multiplier Points
 
-If users unstake their HEI tokens, the proportional amount of Multiplier Points is burned. For instance, if 500 Multiplier Points have been earned from staking 1000 HEI tokens and the user unstakes 300 HEI tokens, 150 (300/1000\*500) multiplier points will be burned. The burn applies to both staked and unstaked multiplier points.
+Once HEI or escrowed HEI tokens are unstaked, the same amount of multiplier points are burned. For instance, if 10000 HEI is staked and 5000 multiplier points have been earned since then, unstaking 3000 TND would burn 1500 (3000 / 10000 \* 5000) multiplier points. The burn will affect the total number of multiplier points, including those that have been staked and those that have not been staked.&#x20;
 
-\
+Use the Transfer button on the earning page to move staked Hei without burning your Multiplier Points.
