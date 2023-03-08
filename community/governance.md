@@ -1,6 +1,6 @@
 # Governance
 
-Sohei is a decentralized finance protocol set to undergo progressive decentralization as it matures in the future. The goal is for a decentralized autonomous community (DAO) made up of $HEI token holders and both on-chain and off-chain governance structures to be in charge of everything. The founding team will bootstrap the initial release of Sohei and oversee the early stages of the protocol's growth.
+Sohei is a decentralized finance protocol that is going to become increasingly decentralized as it grows and matures. The goal is to have everything run by a decentralized autonomous community (DAO) consisting of those who own $HEI tokens and both on-chain and off-chain governance structures.
 
 To bring forth and vote on proposals affecting key parameters such as economics, security, and protocol development, $HEI tokens will be required. These proposals are called Sohei Improvement Proposals (SIP) and will be voted on by $HEI token holders.
 
