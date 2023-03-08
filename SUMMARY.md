@@ -15,7 +15,7 @@
     * [Borrow Limits and Utilization](ecosystem/products/liquidation/borrow-limits-and-utilization.md)
     * [Liquidation Process](ecosystem/products/liquidation/liquidation-process.md)
     * [Collateral Ratio and Liquidation Threshold](ecosystem/products/liquidation/collateral-ratio-and-liquidation-threshold.md)
-* [The Hei Token](ecosystem/hei-token.md)
+* [The Hei Token](ecosystem/what-is-hei.md)
 * [Token Distribution](ecosystem/tokenomics.md)
 * [Incentive mechanism](ecosystem/incentive-mechanism/README.md)
   * [Earning Multiplier Points](ecosystem/incentive-mechanism/earning-multiplier-points.md)
