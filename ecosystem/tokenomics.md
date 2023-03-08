@@ -1,6 +1,10 @@
 # Token Distribution
 
-The distribution of $HEI tokens is intended to reward community members and active protocol participants. The majority of $HEI will be distributed through the Community Development fund and incentive programs.
+The distribution of $HEI tokens is aimed at rewarding community members and active protocol participants. Most of $HEI will be given out via the Community Development Fund and incentive programs.&#x20;
+
+{% hint style="info" %}
+**Total Supply:** _50,000,000_
+{% endhint %}
 
 Token allocation and release schedule are as follows:
 
