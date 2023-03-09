@@ -10,9 +10,9 @@ Token allocation and release schedule are as follows:
 
 | Allocation            | Percentage | Release Schedule                                         |
 | --------------------- | ---------- | -------------------------------------------------------- |
-| Community Development | 40%        | 5 year distribution strategy                             |
+| Community Development | 45%        | 5 year distribution strategy                             |
 | DAO Treasury          | 20%        | 100% immediately available                               |
-| Inititial Offering    | 10%        | 50% TGE, 50% Vested                                      |
-| Liquidity             | 20%        | Used to create a trading pair.                           |
+| Inititial Offering    | 20%        | 50% TGE, 50% Vested                                      |
+| Liquidity             | 5%         | Used to create a trading pair.                           |
 | Team                  | 10%        | 6 month cliff, followed by linear release over 48 months |
 
