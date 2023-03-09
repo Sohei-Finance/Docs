@@ -1,12 +1,10 @@
 # Borrow
 
-Once you deposit assets on the Sohei Protocol, they can be used as collateral for borrowing. The amount that can be borrowed against your collateral will vary depending on the type of asset used. You can find your borrowing limit displayed on your dashboard.
-
-The amount you can borrow depends on how liquid the asset is. If no liquidity is available for borrowing, you might have to wait for another user to join the platform, for more liquidity to become available, or for a loan to be repaid.
+After depositing assets on Sohei, they can be used as collateral for borrowing. Your borrowing limit is displayed on the dashboard and depends on the asset's liquidity. If there's no available liquidity, you may have to wait for more users or repayments.
 
 ### Step 1:
 
-To borrow an asset, click on the desired asset, ensuring adequate liquidity for the asset and that you have not exceeded your borrowing limit.
+To borrow an asset, click on the asset you want to borrow and make sure you have enough cash and haven't reached your borrowing limit.
 
 ### Step 2:
 

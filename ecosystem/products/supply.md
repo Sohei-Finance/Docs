@@ -4,9 +4,9 @@ Follow these steps to add liquidity to an asset on the Sohei Protocol and start 
 
 ### Step 1:
 
-Connect your wallet to Sohei.io. Currently, Metamask is the only wallet that can be used.\
-\
-You must sign a message in your wallet before Sohei.io will recognize your wallet. There are no costs associated with this procedure, and there are no transaction fees.
+Sohei.io requires you to connect your wallet. Metamask is currently the only wallet that can be utilized.
+
+Before Sohei.io identifies your wallet, you must sign a message in it. There are no expenses or transaction fees associated with this procedure.
 
 ### **Step 2:**
 
@@ -21,15 +21,9 @@ Please keep in mind that the figures provided for each asset on the platform sho
 
 ### Step 3:
 
-If the asset you want to supply liquidity for is not enabled in your wallet, you will need to enable it. This allows the Sohei platform to access and use your wallet balance. You will need to sign a transaction and pay a gas fee through your wallet to use the asset.
+If the asset you want to provide liquidity for is not enabled in your wallet, you will need to turn it on. This lets the Sohei platform get to your wallet balance and use it. To use the asset, you will have to sign a transaction and pay a gas fee through your wallet.
 
 ### Step 4:&#x20;
 
-To provide liquidity for an asset on Sohei.io, simply enter the amount you wish to deposit in the pop-up window and click on the "Deposit" button.
-
-Keep in mind that "Collateral" is always on, so any asset you add to the platform will be eligible to be used as collateral for a loan secured by another asset.
-
-After you deposit the asset, your borrowing limit will change to reflect the new amount you can borrow.
-
-To complete the deposit, you will need to confirm transactions and pay gas fees through your wallet.
+To add liquidity on Sohei.io, enter the amount and click "Deposit." "Collateral" is always on, meaning the asset can be used as collateral for a secured loan. Your borrowing limit updates after deposit. Confirm transactions and pay gas fees through your wallet to complete.
 

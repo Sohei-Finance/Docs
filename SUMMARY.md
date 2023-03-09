@@ -4,7 +4,7 @@
 
 * [🥷 Overview](README.md)
 * [Why Arbitrum?](ecosystem/why-canto.md)
-* [Why Sohei?](ecosystem/why-sohei.md)
+* [Simplifying DeFi with Sohei](introduction/simplifying-defi-with-sohei.md)
 
 ## Sohei Ecosystem <a href="#ecosystem" id="ecosystem"></a>
 
